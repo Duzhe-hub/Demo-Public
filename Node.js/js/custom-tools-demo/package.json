@@ -1,0 +1,16 @@
+{
+  "name": "custom-tools-demo",
+  "version": "1.0.0",
+  "description": "提供了格式化时间、HTMLEscape 的功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "custom",
+    "dateFormat",
+    "escape"
+  ],
+  "author": "",
+  "license": "ISC"
+}
